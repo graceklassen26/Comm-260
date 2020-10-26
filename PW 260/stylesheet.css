@@ -1,4 +1,20 @@
-h1{
+.header{
   font-family: monospace;
   color:rgb(255, 182, 193);
+  padding-left: auto;
   }
+body{
+  color: grey;
+}
+img {
+padding: 40px 25px 40px 25px;
+}
+#bighead{
+  padding: 60px;
+  text-align: center;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(186,13,89,1) 100%);
+  color: white;
+  font-size: 80px;
+}
+}
